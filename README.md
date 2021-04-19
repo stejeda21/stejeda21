@@ -1,5 +1,6 @@
-# Steven Tejeda  | Software Engineer
 ![Frontend Software Engineer](https://github.com/stejeda21/stejeda21/blob/main/banner-5185363__340.webp)
+
+# Steven Tejeda  | Software Engineer
 
 Hi, my name is Steven! I'm a software engineer who likes building things. I enjoy learning new things that excite me and can make an impact on a larger scale. I specialize in building great digital experiences.
 
