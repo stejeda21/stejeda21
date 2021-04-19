@@ -1,5 +1,13 @@
-### Hi there.  👋
+### Hi there 👋, Steven Tejeda
+#### Frontend Software Engineer
+![Frontend Software Engineer](https://im3.ezgif.com/tmp/ezgif-3-1e414fe3a705.webp)
 
-I'm Steven, I'm a software engineer who really enjoys learning different languages and frameworks like React and Native. Solving problems is also a hobby of mine, and anything that also makes a meaningful impact on a larger scale. You can check out my Instagram or facebook.
+Hi, my name is Steven! I'm a software engineer who likes building things. I enjoy learning new things that excite me and can make an impact on a larger scale. I specialize in building great digital experiences.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stejeda21)](https://github.com/anuraghazra/github-readme-stats)
+Skills: Front End - REACT / JS / HTML / CSS  Back End - Python (occasionally implementing Flask frontend framework with Python)
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
