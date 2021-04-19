@@ -6,7 +6,13 @@ Hi, my name is Steven! I'm a software engineer who likes building things. I enjo
 
 Skills: Front End - REACT / JS / HTML / CSS  Back End - Python (occasionally implementing Flask frontend framework with Python)
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on : A website for a construction company 
+- 🌱 I’m currently learning : Data Structures and Algorithms 
+- 👯 I’m looking to collaborate on : Any project I can contribute to on the FrontEnd. 
+- 💬 Ask me about : Anything! 
+- 📫 How to reach me: ([Instagram] (www.instagram.com/stejeda21)) 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I'm a movie nerd. Unofficial movie critic.  
 
 
 
