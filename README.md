@@ -10,7 +10,7 @@ Skills: Front End - REACT / JS / HTML / CSS  Back End - Python (occasionally imp
 - 🌱 I’m currently learning : Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on : Any project I can contribute to on the FrontEnd. 
 - 💬 Ask me about : Anything! 
-- 📫 How to reach me: ([Instagram] (www.instagram.com/stejeda21)) 
+- 📫 How to reach me: ([Instagram](https://www.instagram.com/stejeda21/))   ([Facebook](https://www.facebook.com/steven.tejeda.7/))     
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I'm a movie nerd. Unofficial movie critic.  
 
