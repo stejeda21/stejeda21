@@ -1,6 +1,6 @@
 ### Hi there 👋, Steven Tejeda
 #### Frontend Software Engineer
-![Frontend Software Engineer](https://im3.ezgif.com/tmp/ezgif-3-1e414fe3a705.webp)
+![Frontend Software Engineer](https://github.com/stejeda21/stejeda21/blob/main/tech-banner.jpg)
 
 Hi, my name is Steven! I'm a software engineer who likes building things. I enjoy learning new things that excite me and can make an impact on a larger scale. I specialize in building great digital experiences.
 
