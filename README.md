@@ -1,10 +1,11 @@
-### Hi there 👋, Steven Tejeda
-#### Frontend Software Engineer
+# Steven Tejeda | Software Engineer
 ![Frontend Software Engineer](https://github.com/stejeda21/stejeda21/blob/main/tech-banner.jpg)
 
 Hi, my name is Steven! I'm a software engineer who likes building things. I enjoy learning new things that excite me and can make an impact on a larger scale. I specialize in building great digital experiences.
 
-Skills: Front End - REACT / JS / HTML / CSS  Back End - Python (occasionally implementing Flask frontend framework with Python)
+## Skills and Experience
+* ⚛️ React
+* 💻 HTML5, CSS3, JavaScript, Node.js, and Python (occasional backend projects)
 
 - 🔭 I’m currently working on : A website for a construction company 
 - 🌱 I’m currently learning : Data Structures and Algorithms 
