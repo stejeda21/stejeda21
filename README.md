@@ -1,4 +1,4 @@
-![Frontend Software Engineer](https://github.com/stejeda21/stejeda21/blob/main/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg)
+![Frontend Software Engineer](https://github.com/stejeda21/stejeda21/blob/main/code.gif)
 
 # Steven Tejeda  | Software Engineer
 
