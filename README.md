@@ -8,7 +8,7 @@ Hi, my name is Steven! I'm a software engineer who likes building things. I enjo
 * ⚛️ React
 * 💻 HTML5, CSS3, JavaScript, Node.js, and Python (occasional backend projects)
 
-- 🔭 I’m currently working on : Next react project!
+- 🔭 I’m currently working on : Creating an advanced movie react application with authentication!
 - 🌱 I’m currently learning : Advanced React.js methods 
 - 👯 I’m looking to collaborate on : Any project I can contribute to on the FrontEnd. 
 - 💬 Ask me about : Anything! 
