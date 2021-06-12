@@ -8,8 +8,8 @@ Hi, my name is Steven! I'm a software engineer who likes building things. I enjo
 * ⚛️ React
 * 💻 HTML5, CSS3, JavaScript, Node.js, and Python (occasional backend projects)
 
-- 🔭 I’m currently working on : Creating an advanced movie react application with authentication!
-- 🌱 I’m currently learning : Advanced React.js methods 
+- 🔭 I’m currently working on : Building a Music application
+- 🌱 I’m currently learning : Data Structures and Algorithms 
 - 👯 I’m looking to collaborate on : Any project I can contribute to on the FrontEnd. 
 - 💬 Ask me about : Anything! 
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/steventejeda/))  ([Resume](https://github.com/stejeda21/stejeda21/blob/main/Resume.pdf))   ([Facebook](https://www.facebook.com/steven.tejeda.7/)) ([Instagram](https://www.instagram.com/stejeda21/))
