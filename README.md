@@ -5,7 +5,7 @@
 Hi, my name is Steven! I'm a software engineer who likes building things. I enjoy learning new things that excite me and can make an impact on a larger scale. I specialize in building great digital experiences.
 
 ## Skills and Experience
-* 💻 Python, Django, Flask, HTML5 CSS, JavaScript, Node.js, React
+* 💻 Python, Flask, HTML5 CSS, JavaScript, Node.js, React
 
 - 🔭 I’m currently working on : Mock blog website
 - 🌱 I’m currently learning : Data Structures and Algorithms 
