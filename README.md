@@ -9,7 +9,7 @@ Hi, my name is Steven! I'm a software engineer who likes building things. I enjo
 
 - 🔭 I’m currently working on : Mock blog website
 - 🌱 I’m currently learning : Data Structures and Algorithms 
-- 👯 I’m looking to collaborate on : Any project I can contribute on the backend
+- 👯 I’m looking to collaborate on : Any project I can contribute to!
 - 💬 Ask me about : Anything! 
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/steventejeda/))  ([Resume](https://steventejeda.tech/resume/Resume.pdf)) 
 - Check out my portfolio website - ([Portfolio](https://steventejeda.tech/))
