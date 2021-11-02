@@ -7,8 +7,8 @@ Hi, my name is Steven! I'm a software engineer who likes building things. I enjo
 ## Skills and Experience
 * 💻 Python, Flask, HTML5 CSS, JavaScript, Node.js, React
 
-- 🔭 I’m currently working on : Mock blog website
-- 🌱 I’m currently learning : Data Structures and Algorithms 
+- 🔭 I’m currently working on : Learning
+- 🌱 I’m currently learning : C# / ASP.NET 
 - 👯 I’m looking to collaborate on : Any project I can contribute to!
 - 💬 Ask me about : Anything! 
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/steventejeda/))  ([Resume](https://steventejeda.tech/resume/Resume.pdf)) 
