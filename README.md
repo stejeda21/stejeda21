@@ -5,12 +5,10 @@
 Hi, my name is Steven! I'm a software engineer who likes building things. I enjoy learning new things that excite me and can make an impact on a larger scale. I specialize in building great digital experiences.
 
 ## Skills and Experience
-* 💻 Python, Flask, HTML5 CSS, JavaScript, Node.js, React
+* 💻 Python, Flask, HTML5, CSS, JavaScript, Node.js, React
 
-- 🔭 I’m currently working on : Learning
-- 🌱 I’m currently learning : C# / ASP.NET 
-- 👯 I’m looking to collaborate on : Any project I can contribute to!
-- 💬 Ask me about : Anything! 
+- 🔭 I’m currently working on : Solving DSA problms
+- 🌱 I’m currently learning : Data Structures & Algorithms 
 - 📫 How to reach me: ([Linkedin](https://www.linkedin.com/in/steventejeda/))  ([Resume](https://steventejeda.tech/resume/Resume.pdf)) 
 - Check out my portfolio website - ([Portfolio](https://steventejeda.tech/))
 - 😄 Pronouns: He/Him 
