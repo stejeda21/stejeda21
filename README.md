@@ -1,4 +1,4 @@
-# Steven Tejeda  | Software Engineer
+Software Engineer
 
 
 
